@@ -18,8 +18,12 @@
 
 ## Figures and Description 
 ### Amino Acid Composition
+**Figure 1:** [SMPD1 amino acid composition](https://github.com/martinezjenmarie9/lysosomal-enzyme-SMPD1/blob/main/figures/SMPD1_amino_acid_composition.png)
+
 **Description:** The bar graph shows the amino acid composition of the SMPD1 protein. Leucine (L) is the most abundant amino acid, with approximately 81 residues, followed by proline (P) with 63 and alanine (A) with 55. Methionine (M) is the least abundant, with around 9 residues. This variation indicates that the protein contains different amounts of each amino acid, which contribute to its structure and function. However, amino acid counts alone cannot fully explain the protein's function or structure.
 ### Potential N-Glycosylation Motifs
+**Figure 2:** [SMPD1 potential N glycosylation](https://github.com/martinezjenmarie9/lysosomal-enzyme-SMPD1/blob/main/figures/SMPD1_potential_N_glycosilation.png)
+
 **Description:** The figure shows six possible N-linked glycosylation motifs in the SMPD1 protein, located at different amino acid positions along the protein sequence. These motifs follow the sequence pattern N-X-S/T, where X can be any amino acid except proline. They represent potential sites where sugar chains may attach to the protein. This modification may help with proper protein folding, stability, and function. However, these are predicted sites, and further evidence is needed to confirm whether glycosylation actually occurs at each position.
 
 ## Questions
